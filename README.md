@@ -23,3 +23,5 @@ VERSION: 6.3: Support for 11 different languages.
  ## Extract Assets.zip and place it in the /(user) directory.
  
  ## DESIGNED FOR MACOS
+
+# FROM TÜRKİYE🇹🇷🇹🇷🇹🇷
