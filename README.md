@@ -14,5 +14,5 @@ VERSION: BETA-1 TÜRKÇE.
 2. Ensure your flag PNG files are inside the `assets/` directory.
 3. Run the following command in your terminal:
    ```bash
-   python3 launcherv6.py
+   python3 launcher.py
  ## DESIGNED FOR MACOS
