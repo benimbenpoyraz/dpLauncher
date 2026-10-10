@@ -15,6 +15,11 @@ VERSION: BETA-1 TÜRKÇE.
 3. Run the following command in your terminal:
    ```bash
    python3 launcher.py
+   ```bash
+   python3 launcherv2.py
+   ```bash
+   python3 launcherv3.py
+   ...
  ## Extract Assets.zip and place it in the /(user) directory.
  
  ## DESIGNED FOR MACOS
