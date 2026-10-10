@@ -1,7 +1,7 @@
-# dpLauncher Beta (dpLB)
+# dpLauncher (Latest version: v.6.3)
 
-dpLauncher Beta (dpLB) has been designed with a modern look. Please report any issues that arise. 
-VERSION: BETA-1 TÜRKÇE.
+dpLauncher v.6.3 has been designed with a modern look. Please report any issues that arise. 
+VERSION: 6.3: Support for 11 different languages.
 
 ## Requirements
 - Python 3.8+ (Ensure Python 3 is installed on your system)
